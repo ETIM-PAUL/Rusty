@@ -19,5 +19,5 @@ fn main() {
     let set = vec![5, 2, 3];
     let power_set = power_set(&set);
 
-    println!("Power set: {:?}", power_set);
+    println!("Power set of the given set: {:?}", power_set);
 }
